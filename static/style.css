@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #000; /* Black background */
+    color: white; /* White text for visibility */
+}
+
+h1 {
+    font-size: 36px; /* Bigger font for title */
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 20px; /* Bigger button text */
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#password {
+    font-size: 24px; /* Bigger password text */
+    margin-top: 20px;
+    font-weight: bold;
+    color: yellow; /* Password in yellow */
+}
